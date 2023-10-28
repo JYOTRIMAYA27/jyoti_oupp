@@ -1,0 +1,35 @@
+h1{
+    color: rgba(240, 36, 5, 0.977);
+    /* background-color: black; */
+    border-radius: 5px;
+    text-align: center;
+
+}
+p{
+    color: blue;
+}
+button{
+    color: rgb(230, 12, 12);
+    cursor: pointer;
+    background-color: black;
+    border-radius: 5px;
+    
+
+    
+}
+.header{
+    padding: 6px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+}
+.box{
+    display: flex;
+}
+.push{
+    margin-left: auto;
+}
+body{
+    background-image: url(https://files.techmahindra.com/static/img/techm-campus-banner23.png);
+}
